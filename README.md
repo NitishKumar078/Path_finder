@@ -45,3 +45,7 @@ This project allows users to interactively explore and compare five distinct pat
 
 ## Technologies Used
 ### JavaScript(p5)  
+## PHP 
+ - just for store user name and Email in DB 
+## HTML 
+## CSS
